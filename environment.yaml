@@ -1,0 +1,15 @@
+name: EEG-for-DSS
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - matplotlib
+  - mne-base
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - notebook
+  - keras
+  - tensorflow
